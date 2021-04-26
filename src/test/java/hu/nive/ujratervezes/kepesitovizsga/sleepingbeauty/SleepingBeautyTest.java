@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Map;
 
-public class SleepingBeautyTest {
+public class SleepingBeautyTest  {
 
     @Test
     public void countCharacters() {

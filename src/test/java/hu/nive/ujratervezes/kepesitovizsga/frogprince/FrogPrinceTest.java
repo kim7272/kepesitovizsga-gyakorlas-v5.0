@@ -30,7 +30,7 @@ public class FrogPrinceTest {
     }
 
     @Test
-    public void getPlayersOfTale() {
+    public void getPlayersOfTale()  {
         Set<PlayerOfTale> playersOfTale = new FrogPrince().getPlayersOfTale(dataSource, Tale.FROGPRINCE);
 
         Assertions.assertTrue(playersOfTale.contains(new PlayerOfTale("Békakirályfi", 27, Tale.FROGPRINCE)));

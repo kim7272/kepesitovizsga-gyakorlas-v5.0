@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ForestTest {
+public class ForestTest  {
 
     @AfterEach
     public void tearDown() {

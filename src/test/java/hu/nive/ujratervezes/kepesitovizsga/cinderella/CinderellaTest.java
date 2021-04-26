@@ -4,9 +4,10 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class CinderellaTest {
+public class
+CinderellaTest {
 
-    private Cinderella cinderella;
+    private Cinderella  cinderella;
 
     @BeforeEach
     public void setUp() {
